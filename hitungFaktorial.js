@@ -1,5 +1,3 @@
-// Dita Annisa Diningtyas | Kelas Front End | Hari 11 
-
 //fungsi rekursif untuk hitung faktorial
 function faktorial(n) {
     if (n < 0){
